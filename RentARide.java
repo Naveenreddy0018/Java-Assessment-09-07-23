@@ -31,7 +31,7 @@ class Driver {
     }
 }
 
-class CarDealer {
+class RentARide {
     private static final double CHARGE_PER_KM = 8;
 
     public static void main(String[] args) {
